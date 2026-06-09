@@ -1,0 +1,48 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Category": "Games",
+  "Description": "Wild Wolf - The King of Jungle client project.",
+  "Modules": [
+    {
+      "Name": "WildWolf",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "WildWolfEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "GameplayAbilities",
+      "Enabled": true
+    },
+    {
+      "Name": "MassEntity",
+      "Enabled": true
+    },
+    {
+      "Name": "Niagara",
+      "Enabled": true
+    },
+    {
+      "Name": "OpenXR",
+      "Enabled": true
+    },
+    {
+      "Name": "WW_CoreSystems",
+      "Enabled": true
+    },
+    {
+      "Name": "WW_VRFramework",
+      "Enabled": true
+    },
+    {
+      "Name": "WW_AntiCheatClient",
+      "Enabled": true
+    }
+  ]
+}

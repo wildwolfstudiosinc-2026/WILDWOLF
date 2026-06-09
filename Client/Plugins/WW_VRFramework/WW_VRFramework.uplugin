@@ -1,0 +1,10 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "WW VR Framework",
+  "Description": "OpenXR, hand tracking, diegetic HUD, and 6DoF client framework.",
+  "Category": "WildWolf",
+  "CanContainContent": false,
+  "Modules": []
+}

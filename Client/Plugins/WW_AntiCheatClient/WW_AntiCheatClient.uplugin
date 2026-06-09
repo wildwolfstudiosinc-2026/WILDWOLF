@@ -1,0 +1,10 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "WW Anti-Cheat Client",
+  "Description": "Client reporting only; all authoritative calculations remain server-side.",
+  "Category": "WildWolf",
+  "CanContainContent": false,
+  "Modules": []
+}

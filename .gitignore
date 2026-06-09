@@ -41,6 +41,12 @@ vendor/
 # ─── Content (binary assets → use Perforce or Git LFS) ─────
 Content/
 !Content/.gitkeep
+Client/Content/
+!Client/Build/
+!Client/Build/Scripts/
+!Client/Build/Scripts/.gitkeep
+!Client/Build/Targets/
+!Client/Build/Targets/.gitkeep
 
 # ─── What IS tracked ───────────────────────────────────────
 # /Source/     → C++ source code
@@ -54,4 +60,3 @@ Content/
 # /QA/         → Test suites
 # /Localization/ → String files
 # /Legal/      → Compliance docs
-

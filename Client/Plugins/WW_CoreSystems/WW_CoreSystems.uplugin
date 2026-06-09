@@ -1,0 +1,10 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "WW Core Systems",
+  "Description": "Core client systems for Wild Wolf.",
+  "Category": "WildWolf",
+  "CanContainContent": false,
+  "Modules": []
+}

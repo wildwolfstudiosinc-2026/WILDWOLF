@@ -1,0 +1,57 @@
+# ─── Unreal Engine Generated ───────────────────────────────
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.user
+*.xcworkspace
+*.xcodeproj
+
+# ─── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Node.js (backend services) ────────────────────────────
+node_modules/
+dist/
+.env
+.env.local
+.env.production
+
+# ─── Python ────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ─── Go ────────────────────────────────────────────────────
+vendor/
+*.exe
+
+# ─── Content (binary assets → use Perforce or Git LFS) ─────
+Content/
+!Content/.gitkeep
+
+# ─── What IS tracked ───────────────────────────────────────
+# /Source/     → C++ source code
+# /Config/     → Engine and game ini files
+# /Plugins/    → Plugin source only
+# *.uproject   → Project descriptor
+# /Server/     → All microservice source
+# /Infrastructure/ → Terraform + K8s
+# /Pipeline/   → CI/CD scripts
+# /Docs/       → Production documents
+# /QA/         → Test suites
+# /Localization/ → String files
+# /Legal/      → Compliance docs
+
